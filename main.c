@@ -3,7 +3,7 @@
 //  Reverse Order String
 //
 //  Created by Ahmed Almansor on 4/4/17.
-//  Copyright © 2017 A&A. All rights reserved.
+//  Copyright © 2017 . All rights reserved.
 //
 
 #include <stdio.h>     // I/O library
